@@ -1,6 +1,6 @@
-# ⚡ GiziKu Pro - Dashboard Analisis Nutrisi & AI
+# ⚡ My Gizi - Dashboard Analisis Nutrisi & AI
 
-**GiziKu Pro** adalah aplikasi web modern untuk menganalisis data nutrisi makanan menggunakan Data Science dan Machine Learning. Aplikasi ini dibangun menggunakan Python dan Streamlit dengan desain antarmuka **Neon Dark Glassmorphism** yang futuristik.
+**My Gizi** adalah aplikasi web modern untuk menganalisis data nutrisi makanan menggunakan Data Science dan Machine Learning. Aplikasi ini dibangun menggunakan Python dan Streamlit.
 
 ## 🌟 Fitur Utama
 
